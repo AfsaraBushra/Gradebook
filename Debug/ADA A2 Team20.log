@@ -1,0 +1,5 @@
+﻿  Main.cpp
+  LINK : C:\Users\Afsara\Desktop\ADA A2 Team20\ADA A2 Team20\Debug\ADA A2 Team20.exe not found or not built by the last incremental link; performing full link
+A2_lib.lib(GB_auth.obj) : warning LNK4099: PDB '' was not found with 'A2_lib.lib(GB_auth.obj)' or at ''; linking object as if no debug info
+A2_lib.lib(GB_handler.obj) : warning LNK4099: PDB 'A2_lib.pdb' was not found with 'A2_lib.lib(GB_handler.obj)' or at 'C:\Users\Afsara\Desktop\ADA A2 Team20\ADA A2 Team20\Debug\A2_lib.pdb'; linking object as if no debug info
+  ADA A2 Team20.vcxproj -> C:\Users\Afsara\Desktop\ADA A2 Team20\ADA A2 Team20\Debug\ADA A2 Team20.exe
